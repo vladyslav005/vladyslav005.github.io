@@ -6,8 +6,14 @@
       "src": "logo96.png",
       "type": "image/png",
       "sizes": "96x96"
+    },
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "350x350"
     }
   ],
+  "description": "Interactive type checker for simply typed lambda terms.",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
